@@ -7,10 +7,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21ncWNhYXcxNG40NmV5eGVqMHZuOWdvbDEzM2txdWExYWg3dW5zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6gCAD8vSXMSg7aYmJH/giphy.gif"></a>
-</p> 
-</a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21ncWNhYXcxNG40NmV5eGVqMHZuOWdvbDEzM2txdWExYWg3dW5zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6gCAD8vSXMSg7aYmJH/giphy.gif" width="300"/>
+  </a>
+</p>
 
 
 - 👨‍💻 As a  IT engineering student, I constantly learn and explore new technologies to improve my skills.
