@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Welcome to Hiba Ghrab's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21ncWNhYXcxNG40NmV5eGVqMHZuOWdvbDEzM2txdWExYWg3dW5zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6gCAD8vSXMSg7aYmJH/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
